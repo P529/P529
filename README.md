@@ -8,4 +8,5 @@
   <img src="https://img.shields.io/badge/Powered%20by-Caffeine-purple?style=for-the-badge" />
 </p>
 
-<marquee>Now I got your IP address: 127.0.0.1</marquee>
+<p align="center">
+<img src="/ressources/marquee.svg">
