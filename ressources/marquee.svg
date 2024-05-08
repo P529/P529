@@ -8,6 +8,7 @@
           position: relative;
         }
         .marquee strong {
+          font-family:Sans,Arial;
           position: absolute;
           font-size: 3em;
           width: 100%;
